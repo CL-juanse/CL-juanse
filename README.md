@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CL-juanse
+- 👋 Hi, I’m **Juanse!**
 - 👀 I’m interested in Backend, Cloud, DS ans Management
 - 🌱 I’m currently learning Cloud
 - 📫 How to reach me @juanse in slack
